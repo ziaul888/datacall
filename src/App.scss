@@ -13,7 +13,7 @@
  //
  // color
  //
- @import url("https://fonts.googleapis.com/css?family=Sarabun:100,200,300,400,500,600,700,800&display=swap");
+ 
  $white: #fff;
  $black: #000;
  $red: #df4c44;
@@ -129,7 +129,7 @@
  
    .content,
    .img-container {
-    background-image: url("./asset/images/common-hero-img.299c5d.svg");
+    
      display: flex;
      flex-direction: column;
      justify-content: center;
@@ -250,7 +250,7 @@
      width: 100%;
      align-items: center;
      justify-content: center;
- 
+     background-image: url("./asset/images/common-hero-img.299c5d.svg");
      background-repeat: no-repeat;
      background-size: 100%;
      min-height: 142px;

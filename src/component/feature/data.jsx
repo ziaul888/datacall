@@ -3,13 +3,13 @@
         id:1, 
         text:"The claims dashboard is intuitive, efficient, and easy to use. Enter in a new",
         title:"Simplified Working Claims Dashboard",
-        image:"./img/details-and-notes.3495a6.svg"
+        image:"./img/dashboard.1942d5.svg"
     },
     {
       id:2,
       text:"Each claim management package gives you the information you need to get that claim processed and paid.",
-      title:"Fast Follow Up with Robust Reporting",
-      image:"./img/dashboard.1942d5.svg"
+      title:"Detailed and Comprehensive Claim Notes",
+      image:"./img/details-and-notes.3495a6.svg"
   },
   {
       id:3,

@@ -2,6 +2,7 @@ import React from 'react'
 import HomePage from "../pages/HomePage"
 import ServicesPage from "../pages/ServicesPage"
 import AboutPage from "../pages/AboutPage"
+import {DoMorePage} from "../pages/Do-MorePage"
 import {
 
     Switch,
@@ -18,6 +19,7 @@ export const RouterApp = () => {
                   <Route  path="/services" component={ServicesPage}/>
                   <Route  path="/about" component={AboutPage}/>
                   <Route path="/whydata" component={WhyDataPage}/>
+                  <Route path="/DoMorePage" component={DoMorePage}/>
                  
         </Switch>
         </>

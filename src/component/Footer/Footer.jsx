@@ -8,24 +8,24 @@ export const Footer = () => {
         <div className="container">
           <ul className="quick-nav">
             <li>
-              <Link href="/do-more-with-data-call.html" className="nav-link">
-                Do more with Data Call
-              </Link>
+            <Link className="nav-link active" to="/">
+                  Do more with Data Call
+                </Link>
             </li>
             <li>
-              <Link href="/why-data-call.html" className="nav-link">
-                Why Data Call
-              </Link>
+            <Link className="nav-link" to="/whydata">
+                  Why Data Call
+                </Link>
             </li>
             <li>
-              <Link href="/about.html" className="nav-link">
-                About
-              </Link>
+            <Link className="nav-link " to="/about">
+                  About
+                </Link>
             </li>
             <li>
-              <Link href="/services.html" className="nav-link">
-                Services
-              </Link>
+            <Link className="nav-link" to="/services">
+                  Services
+                </Link>
             </li>
           </ul>
 
